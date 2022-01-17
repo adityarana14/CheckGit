@@ -1,1 +1,30 @@
 this is the first line of my txt file.
+
+
+
+
+
+
+
+
+
+Git Commands: 
+
+
+Git status: tells the status of file which are not in commit 
+
+git add "File name ": it has entered into the staging area, means it is going to be 
+	traked now. 
+
+git commit -m "Inital commmit": to commit all the changes.
+
+git log: to see all the previous commit. 
+
+Git checkout hasdcode : to move back to the previous commit. 
+
+git checkout master: To move to the different dir.
+
+git checkout -b aditya/multiply : move to the multiple dir and commit into that space. 
+ 
+
+git merge branch name
